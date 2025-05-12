@@ -18,7 +18,13 @@ Analysing and visualizing the global COVID-19 data.
 
 `cd plp-python-final-assignment`
 
+**Get the sample data**
+
+Download the 'covid-testing-all-observations.csv' file and store it in this location.
+
+Navigate [here](https://www.kaggle.com/datasets) to download the file.
+
 **Open the `COVID-19-global-data-tracker.ipynb`**
 
-Use jypyter to open the jupyter file and run it
+Use jypyter to open the jupyter file and run it.
 
