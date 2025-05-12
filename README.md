@@ -20,9 +20,11 @@
 
 **Get the sample data**
 
-- Download the 'covid-testing-all-observations.csv' file and store it in this location.
+- Navigate [here](https://www.kaggle.com/datasets) and download `COVID-19 (coronavirus) dataset by OWID`.
 
-- Navigate [here](https://www.kaggle.com/datasets) to download the file.
+- Unzip the zip file.
+
+- Locate the `covid-testing-all-observations.csv` file and store it in the location with the cloned repo.
 
 **Open the `COVID-19-global-data-tracker.ipynb`**
 
